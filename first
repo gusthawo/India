@@ -1,0 +1,5 @@
+echo "welcome"
+cal
+ls
+date
+eco "complete"
